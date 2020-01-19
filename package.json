@@ -22,7 +22,7 @@
     "each-async": "^1.1.1",
     "express": "^4.16.2",
     "indent-string": "^4.0.0",
-    "mongoose": "^4.13.5",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "serve-favicon": "^2.4.5",
     "vue": "^2.5.2",
